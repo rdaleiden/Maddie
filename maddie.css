@@ -107,8 +107,7 @@ html, body {
 
 @media only screen and (min-width:150px) and (max-width: 600px){
     html, body {
-      width:80%;
-      font-size:90%;
+      width:600px;
       }
    .navbar {
       font-size:30px;
@@ -129,20 +128,8 @@ html, body {
   height: auto;
 }
    .introp {
-    text-align:center;
-    padding:25x;
+    float:center;
+    padding:10px;
+    text-align:left;
     color:#e6e6e6;
     }
- 
-
-.fa-facebook {
-  float:right;
-}
-
-.fa-linkedin {
-  float:center;
-}
-
-.fa-instagram {
-  float:left;
-}
