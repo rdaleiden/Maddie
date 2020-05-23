@@ -114,7 +114,6 @@ html, body {
       font-size:30px;
       }
    .headerone {
-     position: absolute;
      text-align:center;
      font-size:90%;
       }
@@ -122,20 +121,17 @@ html, body {
      text-align: center;
      float:center;
      font-size:90%;
-     position:absolute;
+ 
      }
    .headerthree {
      text-align: center;
      float:center;
      font-size: 90%;
-     position:absolute;
+     
      }
    .introimg {
-      width: 60%;
-      height: auto;
       margin: 2%, 0;
       float:center;
-      position:absolute;
        }
    .introp {
     float: center;
