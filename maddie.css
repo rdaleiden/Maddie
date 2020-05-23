@@ -115,35 +115,23 @@ html, body {
       }
    .headerone {
      fontsize:60px;
-     text-align:center;
       }
    .headertwo {
-     text-align: center;
-     float:center;
      font-size:40px;
- 
      }
    .headerthree {
-     text-align: center;
-     float:center;
      font-size:40px; 
      }
 
    .introp {
-    content-align:center;
-    float: center;
-    padding:10px;
+    text-align:center;
+    padding:25x;
     color:#e6e6e6;
     }
+  
    .fa {
-     padding: 10px;
-    `font-size: 90%;
-     width: 50px;
-     text-align: center;
-     text-decoration: none;
-     margin: 50px 2px;
      float:center;
-}
+  }
 
 .fa-facebook {
   background: #3B5998;
