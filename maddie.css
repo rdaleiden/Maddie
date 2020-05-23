@@ -114,28 +114,24 @@ html, body {
       font-size:30px;
       }
    .headerone {
+     fontsize:60px;
      text-align:center;
-     font-size:90%;
       }
    .headertwo {
      text-align: center;
      float:center;
-     font-size:90%;
+     font-size:40px;
  
      }
    .headerthree {
      text-align: center;
      float:center;
-     font-size: 90%;
-     
+     font-size:40px; 
      }
-   .introimg {
-      margin: 2%, 0;
-      float:center;
-       }
+
    .introp {
+    content-align:center;
     float: center;
-    font-size: 90%;
     padding:10px;
     color:#e6e6e6;
     }
