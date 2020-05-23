@@ -105,47 +105,30 @@ html, body {
 }
 
 @media only screen and (min-width:150px) and (max-width: 600px){
-  
-html, body {
-  width:80%;
-}
-.navbar {
-  font-size:30px;
-}
+    html, body {
+      width:80%;
+      font-size:90%;
+      }
+   .navbar {
+      font-size:30px;
+      }
+   .headerone {
+     position: fixed;
+     text-align:center;
+      }
+   .headertwo {
+     text-align: center;
+    float:center;
+     }
+   .headerthree {
+     text-align: center;
+     float:center;
+     }
+   .introimg {
+      width: 60%;
+      height: auto;
+      margin: 2%, 0;
 
-.headerone {
-  font-family: 'Libre Franklin', sans-serif;
-  font-size: 90px;
-  text-align: center;
-  margin: 0;
-  padding:20px;
-}
-.headertwo {
-  font-family: 'Libre Franklin', sans-serif;
-  font-size: 60px;
-  text-align: center;
-  margin: 0;
-}
-.headerthree {
-  font-family: 'Libre Franklin', sans-serif;
-  font-size: 60px;
-  text-align: center;
-  padding:-90px;
-  margin:0;
-}
-
-.introcontainer{
- max-width: 100% ;
- margin-left: auto ;
- margin-right: auto ;
-}
-
-.introimg {
-  float: left;
-  border-radius: 50%;
-  padding:20px 90px;
-  display: inline-block;
-  margin: 25px 25px;
 }
 
 .introp {
