@@ -113,50 +113,49 @@ html, body {
       font-size:30px;
       }
    .headerone {
-     position: fixed;
+     position: absolute;
      text-align:center;
+     font-size:90%;
       }
    .headertwo {
      text-align: center;
-    float:center;
+     float:center;
+     font-size:90%;
+     position:absolute;
      }
    .headerthree {
      text-align: center;
      float:center;
+     font-size: 90%;
+     position:absolute;
      }
    .introimg {
       width: 60%;
       height: auto;
       margin: 2%, 0;
-
-}
-
-.introp {
-  float: inline block;
-  font-family: 'Julius Sans One', sans-serif;
-  padding:130px 90px;
-  font-size: 40px;
-  color:#e6e6e6;
-}
-
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 50px 2px;
-  float:center;
-}
-
-.fa:hover {
-    opacity: 0.7;
+      float:center;
+      position:absolute;
+       }
+   .introp {
+    float: center;
+    font-size: 90%;
+    padding:10px;
+    color:#e6e6e6;
+    }
+   .fa {
+     padding: 10px;
+    `font-size: 90%;
+     width: 50px;
+     text-align: center;
+     text-decoration: none;
+     margin: 50px 2px;
+     float:center;
 }
 
 .fa-facebook {
   background: #3B5998;
   color: white;
-  float:center;
+  float:right;
 }
 
 .fa-linkedin {
@@ -168,5 +167,5 @@ html, body {
 .fa-instagram {
   background: #125688;
   color: white;
-  float:center;
+  float:left;
 }
