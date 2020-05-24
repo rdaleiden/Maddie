@@ -126,12 +126,12 @@ html, body {
   float: center;
   width:30%;
   height: auto;
-  padding:15px;
+  padding:15px 10px;
 }
    .introp {
     font-size:40px;
     float:center;
-    padding:15px;
+    padding:15px 10px;
     text-align:left;
     color:#e6e6e6;
     }
