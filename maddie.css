@@ -72,7 +72,16 @@ html, body {
   font-size: 40px;
   color:#e6e6e6;
 }
-
+.links{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 50px 2px;
+  float:center;
+}
+  
 .fa {
   padding: 20px;
   font-size: 30px;
