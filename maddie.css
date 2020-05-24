@@ -110,16 +110,16 @@ html, body {
       width:100%;
       }
    .navbar {
-      font-size:35px;
+      font-size:60px;
       }
    .headerone {
-     fontsize:60px;
+     fontsize:100%;
       }
    .headertwo {
-     font-size:40px;
+     font-size:100%;
      }
    .headerthree {
-     font-size:40px; 
+     font-size:100%; 
      }
 
   .introimg {
@@ -129,7 +129,7 @@ html, body {
   padding:5px;
 }
    .introp {
-    font-size:40px;
+    font-size:100%;
     float:center;
     padding:0;
     text-align:left;
