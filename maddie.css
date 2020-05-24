@@ -72,15 +72,6 @@ html, body {
   font-size: 40px;
   color:#e6e6e6;
 }
-.links{
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 50px 2px;
-  float:center;
-}
   
 .fa {
   padding: 20px;
@@ -133,14 +124,14 @@ html, body {
 
   .introimg {
   float: center;
-  width:30%;
+  width:50%;
   height: auto;
-  padding:15px 10px;
+  padding:5px;
 }
    .introp {
     font-size:40px;
     float:center;
-    padding:15px 10px;
+    padding:0;
     text-align:left;
     color:#e6e6e6;
     }
