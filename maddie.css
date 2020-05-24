@@ -107,7 +107,7 @@ html, body {
 
 @media only screen and (min-width:150px) and (max-width: 600px){
     html, body {
-      width:100%;
+      width:600px;
       }
    .navbar {
       font-size:60px;
